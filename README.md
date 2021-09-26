@@ -20,4 +20,24 @@ This is compared to after removing the 9th grade class where the overall passing
 
 ![thom_hs_school_summary](https://user-images.githubusercontent.com/87910875/134793231-9a6bc834-195f-4411-ae4e-6c71999ed154.png)
 
+Math scores by grade:
+
+![math_scores_by_grade](https://user-images.githubusercontent.com/87910875/134794244-83f34ce9-b808-4e26-86ac-45ec2711d35a.png)
+
+Reading Scores by grade:
+
+![reading_scores_by_grade](https://user-images.githubusercontent.com/87910875/134794253-3182d1f6-4699-47a1-a781-33f961e903d6.png)
+
+Scores by school spending:
+
+![scores_by_spending_new](https://user-images.githubusercontent.com/87910875/134794265-0b8dd4be-e388-4658-bb99-34e96a6f6827.png)
+
+
+Scores by school size:
+
+![school_size_new](https://user-images.githubusercontent.com/87910875/134794270-d7da6e6c-d6f8-4022-a859-e99581fef113.png)
+
+Scores by school type:
+
+![scores_by_type_new](https://user-images.githubusercontent.com/87910875/134794278-fb253e1f-126e-4d2e-b462-fa370bf01b19.png)
 
