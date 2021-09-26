@@ -41,3 +41,8 @@ Scores by school type is also unchanged from the original analysis.
 
 ![scores_by_type_new](https://user-images.githubusercontent.com/87910875/134794278-fb253e1f-126e-4d2e-b462-fa370bf01b19.png)
 
+## Summary
+
+Only the school summary was effected between the two analyses where as the district analysis was overall uneffected. The first change was the differenct in overall passing percentage when initally dropping the 9th grade class. Another change was made when I replaced the average scores with just students between 10th grade and 11th grade. The replacement of scores caused Thomas High School to return to their previous standing due to the result scores being close to the original scores.
+
+
